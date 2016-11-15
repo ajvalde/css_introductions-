@@ -1,3 +1,3 @@
-# CSS Intorductions
+# CSS Introductions
 
-Quick warm-up/introduction to
+Quick warm-up/introduction to CSS
